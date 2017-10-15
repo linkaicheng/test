@@ -3,11 +3,15 @@ package com.itmuch.cloud.entity;
 import java.math.BigDecimal;
 
 public class User {
-	//修复bug跟stash冲突
-	6
-	6
-	6
-	6
+
+	
+	//本地新开发
+	1
+	2
+	3
+	4
+	
+>>>>>>> Stashed changes
 	
   private Long id;
 
