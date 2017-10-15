@@ -3,6 +3,12 @@ package com.itmuch.cloud.entity;
 import java.math.BigDecimal;
 
 public class User {
+	//修复bug跟stash冲突
+	6
+	6
+	6
+	6
+	
   private Long id;
 
   private String username;
