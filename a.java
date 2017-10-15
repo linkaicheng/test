@@ -14,7 +14,11 @@ public class User {
 
   private BigDecimal balance;
 
-
+//解决bug
+//解决bug
+//解决bug
+//解决bug
+//解决bug
   public Long getId() {
     return this.id;
   }
