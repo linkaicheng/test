@@ -3,15 +3,6 @@ package com.itmuch.cloud.entity;
 import java.math.BigDecimal;
 
 public class User {
-
-	
-	//本地新开发
-	1
-	2
-	3
-	4
-	
->>>>>>> Stashed changes
 	
   private Long id;
 
@@ -22,10 +13,7 @@ public class User {
   private Short age;
 
   private BigDecimal balance;
-  //修复bug
-  1
-  1
-  1
+
 
   public Long getId() {
     return this.id;
