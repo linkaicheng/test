@@ -8,7 +8,10 @@ public class User {
 	//新开发
 	//新开发
 	//新开发
-	
+	//冲突
+	//冲突
+	//冲突
+	//冲突
   private Long id;
 
   private String username;
