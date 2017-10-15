@@ -3,6 +3,11 @@ package com.itmuch.cloud.entity;
 import java.math.BigDecimal;
 
 public class User {
+	//新开发
+	//新开发
+	//新开发
+	//新开发
+	//新开发
 	
   private Long id;
 
