@@ -12,6 +12,10 @@ public class User {
   private Short age;
 
   private BigDecimal balance;
+  //修复bug
+  1
+  1
+  1
 
   public Long getId() {
     return this.id;
